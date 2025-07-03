@@ -10,7 +10,7 @@ function abc(data) {
 function ContentCarousel() {
   return (
     <div style={{ marginBottom: 48 }}>
-      <div style={{ marginLeft: 72, marginRight: 72, paddingBottom: 16 }}>
+      <div style={{ marginLeft: 72, marginRight: 72, paddingBottom: 20 }}>
         Movies List
       </div>
       <div>
